@@ -1,0 +1,142 @@
+/* REGOLE GENERALI */
+* {
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;
+  font-family: 'Montserrat',sans-serif;
+}
+/* NAV */
+.background-nav {
+  background: #2c3e50;
+  height: 100px;
+  padding: 30px 10px;
+}
+.row {
+  text-align: center;
+}
+.logogramma {
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+}
+
+ul li a {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+/* HEADER */
+header {
+  background: #1abc9c;
+  height: 700px;
+  border: solid black 1px;
+  padding-top: 150px;
+}
+
+.avatar {
+  height: 200px;
+  width:200px;
+
+}
+
+h1 {
+  font-size: 56px;
+  font-weight: bold;
+  color: white;
+}
+
+.intestazione {
+font-size: 20px;
+font-weight: bold;
+color: white;
+}
+
+.fas {
+  color: white;
+  padding: 20px;
+}
+.line {
+  border-bottom: solid white 3px;
+
+}
+
+
+/* SEZIONE PORTFOLIO */
+.portfolio {
+  background-color: white;
+  border: solid black 1px;
+}
+h2 {
+  color: #2c3e50;
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 40px;
+
+}
+
+.star {
+  color: #2c3e50;
+  padding: 30px;
+}
+
+img {
+  height: auto;
+  width: 100%;
+  margin-top: 30px;
+  border-radius: 3%;
+  margin-bottom: 30px;
+}
+
+/* SEZIONE ABOUT */
+.about {
+  background-color: #1abc9c;
+  height: 800px;
+  border: solid black 1px;
+}
+
+.about h2 {
+  color:white;
+}
+
+.about i {
+  color:white;
+}
+
+.textabout {
+  color: white;
+  font-size: 25px;
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-bottom: 30px;
+  text-align: left;
+}
+
+.bottone i {
+  color: black;
+  padding: 24px 70px;
+  font-size: 23px;
+  padding-top: 25px;
+
+}
+
+.bottone {
+  color: #1abc9c;
+  border: solid black 1px;
+  border-radius: 3%;
+}
+
+
+
+/* SEZIONE CONTACT ME */
+.contactme {
+  background-color: white;
+  height: 500px;
+  border: solid black 1px;
+}
+
+footer {
+  background-color: blue;
+  height: 200px;
+  border: solid black 1px;
+}
